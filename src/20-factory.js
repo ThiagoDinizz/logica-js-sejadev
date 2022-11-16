@@ -12,6 +12,7 @@ const PessoaB = Pessoa("Pedro", "Henrique")
 
 console.log(PessoaA, PessoaB)
 console.log(PessoaA.nomeCompleto)
-console.log(PessoaA.nomeCompleto + PessoaA)
-console.log("NomeCompleto")
+
+console.log(PessoaA.nomeCompleto + PessoaB)
+
 
