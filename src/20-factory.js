@@ -14,3 +14,4 @@ console.log(PessoaA, PessoaB)
 console.log(PessoaA.nomeCompleto)
 console.log(PessoaA.nomeCompleto + PessoaA)
 console.log("NomeCompleto")
+
